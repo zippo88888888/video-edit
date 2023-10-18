@@ -5,7 +5,7 @@ import android.util.Log
 class VelTypeC {
 
     fun cut() {
-        Log.i("VelTypeC", "cut start ...")
+        Log.i("VelTypeC + master", "cut start ...")
     }
 
 }
