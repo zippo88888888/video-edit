@@ -2,7 +2,7 @@ package com.zp_app.video_edit
 
 class VelTypeF {
 
-    fun a() {
+    fun a(a:String) {
 
     }
 }
